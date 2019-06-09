@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Practice</string>
+    <string name="text">My name is Andrey</string>
+    <string name="new_text">Andrey pidor</string>
+    <string name="button">press me!</string>
 </resources>
